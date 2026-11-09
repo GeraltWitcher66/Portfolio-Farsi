@@ -1,0 +1,8 @@
+:HL["/Portfolio-Farsi/_next/static/chunks/0au9r2bbahz3k.css","style"]
+:HL["/Portfolio-Farsi/_next/static/media/3146272aa7a4924e-s.p.21se6xk6bxqs6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Portfolio-Farsi/_next/static/media/413d8ff922cbc3a2-s.p.2avnhkksosb5d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Portfolio-Farsi/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"4","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"projects","h":131136,"c":"$Q2"}]]
+0:{"b":"WNfo6ZCNk5a-HXDV7hW94","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
